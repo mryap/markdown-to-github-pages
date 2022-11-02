@@ -2,17 +2,20 @@
 
 ## Introduction
 
+Github Pages offers the possibilities to anyone to publish a website for free. 
+
 This little guide demonstrates how to turn any [Github](http://github.com) repository with a bunch of [Markdown](https://en.wikipedia.org/wiki/Markdown) files into a simple website using [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
 * You don't need to use the command line or anything other than your browser.
 * It doesn't require any knowledge in Jekyll.
-* It's completely compatible with any bunch of markdown files you already have in any existing repository without any modification to those files. That includes the basic `README.md` almost all repositories contain.
+* Just a bunch of markdown files you already have in any existing folder on your local PC. 
+That includes the basic `README.md` almost all repositories contain.
 * The markdown files will remain just as readable and usable in Github than in your website.
 
 In fact this guide uses the same configuration and can be read both in Github and in Github Pages, at your preference:
 
-* [Here is the link to the Github version](https://github.com/nicolas-van/easy-markdown-to-github-pages)
-* [Here is the link to the Github Pages version](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
+* [Here is the link to the Github version](https://github.com/mryap/markdown-to-github-pages)
+* [Here is the link to the Github Pages version](https://mryap.github.io/markdown-to-github-pages/)
 
 ## Step by step instructions
 
@@ -53,13 +56,13 @@ In the `Source` option, select `master branch` then `Save`:
 
 ![](./printscreen2.png)
 
-You must also choose a theme:
+You must also choose a theme (Optional):
 
 ![](./printscreen3.png)
 
 That's it! Now you can just use the link provided by Github to access your website:
 
-![](./printscreen4.png)
+![](./Screenshot 2022-11-02 104642)
 
 ## Usage guide
 
@@ -79,13 +82,6 @@ Since the purpose of this guide is to demonstrate how to publish multiple Markdo
 * [Escalivada](./recipes/Escalivada.md)
 * [Gazpacho](./recipes/Gazpacho.md)
 * [Pasta all'amatriciana](./recipes/Pasta_all_amatriciana.md)
-
-## Other Github Pages related projects
-
-I'm a fan of Github Pages for the possibilities it offers to anyone to publish a website for free. I have multiple projects that could be of interest if that's your case too:
-
-* [Bootstrap 4 Github Pages](https://nicolas-van.github.io/bootstrap-4-github-pages/)
-* [Parcel Github Pages Boilerplate](https://github.com/nicolas-van/parcel-github-pages-boilerplate)
 
 ## Contributing
 
